@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+苑海涛，北京航空航天大学自动化科学与电气工程学院副教授、博士生导师(导航、制导与控制)，现任海南文昌国际航天城管理局战略发展处副处长、科技处副处长(主持工作)、国家航天局卫星数据与应用国际合作中心数据业务部部长，北京航空航天大学工业互联网与建模仿真系副主任。担任国家实验室重大攻关任务评审专家、工业和信息化部绿色制造和绿色工厂项目评审专家、IEEE Transactions on Systems, Man, and Cybernetics: Systems期刊(中科院JCR一区，影响因子8.7)副主编、IEEE Internet of Things Journal期刊(中科院JCR一区，影响因子8.9)副主编、Expert Systems With Applications期刊(中科院JCR一区，影响因子7.5)副主编、Journal of Artificial Intelligence for Automation期刊副主编、中国高起点新刊Journal of Automation and Intelligence青年编委、系统仿真学报青年编委。获全球前2%顶尖科学家(2025、2024、2023、2022)、小米青年学者、北航青年拔尖人才、北航优秀硕士论文指导教师。担任中国体视学学会理事、IEEE Senior Member (IEEE高级会员)、国家优秀自费留学生奖学金评审专家、科普中国专家(2024-2027)、北航辽宁高考招生组成员(2023、2024)。
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
