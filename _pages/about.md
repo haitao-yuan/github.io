@@ -13,6 +13,14 @@ redirect_from:
 
 2020年8月在美国新泽西理工学院获得计算机工程博士学位，导师为美国发明家科学院院士MengChu Zhou (周孟初)教授，并获得了美国新泽西理工学院2021 Hashimoto Prize (最佳博士论文奖)，经中国驻纽约总领事馆审批，荣获2021年国家优秀自费留学生奖学金。2016年7月获得北京航空航天大学控制科学与工程博士学位，导师为李伯虎院士。以双博士的身份在2021年1月入职北京航空航天大学。于2017年11月至2018年12月在美国新泽西理工学院以访问学者身份工作，期间开展了云数据中心、绿色计算和智能优化等方面的研究工作。目前研究领域包括工业互联网、复杂系统仿真、作战效能评估、云计算、边缘计算、数据中心、深度学习、智能优化算法等。相关研究得到了美国斯坦福大学、美国Intel公司、澳大利亚墨尔本大学、悉尼大学、英国伦敦    大学、加拿大阿尔伯塔大学、德国亚琛工业大学等诸多学者(院士、IEEE FELLOW)的肯定和认可。近年来与澳大利亚墨尔本大学、美国普林斯顿大学、卡耐基梅隆大学、康涅狄格大学、新泽西理工学院、南卫理公会大学、美国微软总部、IBM Thomas J. Watson研究中心等单位有深入的合作基础。
 
+News
+======
+2026.6.27, 很高兴参加“颂歌献给党、情注自贸港”活动，有幸跟张雪珂主任合影留念(2026.6.27，拍摄于海南大学海甸校区)。
+
+
+
+
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
 You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
