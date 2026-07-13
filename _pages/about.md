@@ -17,7 +17,7 @@ News
 ======
 2026.6.27, 很高兴参加“颂歌献给党、情注自贸港”活动，有幸跟张雪珂主任合影留念(2026.6.27，拍摄于海南大学海甸校区)。
 [张雪珂主任](../images/XK_Me.jpg)
-
+[张雪珂主任](https://haitao-yuan.github.io/github.io/images/XK_Me.jpg)
 
 
 
