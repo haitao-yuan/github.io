@@ -28,8 +28,8 @@ author:
   avatar           : "yuan_USA.jpg"
   name             : "苑海涛"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "联系方式"
+  location         : "北京"
   employer         : "Beihang University"
   uri              : # URL
   email            : "yuan@buaa.edu.cn" 
